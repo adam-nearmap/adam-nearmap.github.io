@@ -17,7 +17,7 @@ brew install rbenv
 rbenv init
 ```
 
-3. You need to copy this on your ```.zshrc``` file
+3. You need to copy this onto your ```.zshrc``` file
 ```bash
 export PATH="$HOME/.rbenv/shims:${PATH}"
 export RBENV_SHELL=zsh
@@ -58,7 +58,7 @@ rbenv global 2.4.2
 
 ## Moar!
 
-I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+If you are interested you can find a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
 
 It covers:
 

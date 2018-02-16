@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is our Nearmap engineering blog
 
 ### More Information
 
